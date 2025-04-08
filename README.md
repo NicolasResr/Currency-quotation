@@ -30,14 +30,6 @@ Aplicação web que exibe a cotação de 50 criptomoedas em tempo real utilizand
 
 ---
 
-## 🖼️ Preview
-
-<p align="center">
-  <img src="Currency-quotation.png" alt="Preview da aplicação Currency-quotation" width="800" />
-</p>
-
----
-
 ## 📂 Estrutura de Arquivos
 
 ```
