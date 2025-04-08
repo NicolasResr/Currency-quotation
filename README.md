@@ -35,10 +35,10 @@ Aplicação web que exibe a cotação de 50 criptomoedas em tempo real utilizand
 src/
 ├── components/
 │   └── CryptoList.jsx
+│   └── CryptoList.css
 ├── services/
 │   └── Api.js
-├── styles/
-│   └── CryptoList.css
+
 ```
 
 ---
