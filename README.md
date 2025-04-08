@@ -1,5 +1,4 @@
-# 💰 Currency-quotation
-
+# 💰 CURRENCY-QUOTATION 
 Aplicação web que exibe a cotação de 50 criptomoedas em tempo real utilizando a API da CoinGecko. Desenvolvido com React e estilização customizada em CSS com tema escuro e responsivo.
 
 ---
